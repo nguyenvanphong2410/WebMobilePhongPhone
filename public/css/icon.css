@@ -1,0 +1,23 @@
+#add-cart i {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+#add-cart .btn-buynow {
+	background-image: linear-gradient(rgb(248, 249, 198), rgb(224, 225, 120), rgb(238, 250, 0));
+    border: none;
+    min-width: 60px;
+    min-height: 30px;
+    border-radius: 5px;
+}
+
+#add-cart .btn-addcart {
+	background-image: linear-gradient(rgb(175, 239, 171), rgb(82, 160, 79), rgb(34, 133, 34));
+    border: none;
+    min-width: 60px;
+    min-height: 30px;
+    border-radius: 5px;
+}
+
+.text-white {
+    color: white;
+}
